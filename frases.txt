@@ -1,1 +1,7 @@
 Hello word
+
+Git init
+Git add.(pasta)
+git love KKKKKKK
+
+Eu estou aprendendo de fato
